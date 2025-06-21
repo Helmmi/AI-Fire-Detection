@@ -34,7 +34,7 @@ def notifi():
 
 
 
-genai.configure(api_key="AIzaSyAgt3MVvSVFGLjfE2V8omB9dN26je5FZJ8")
+genai.configure(api_key="your_api_key")
 
 generation_config = {
   "temperature": 1,
